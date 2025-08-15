@@ -1,0 +1,18 @@
+const int k = 5;
+const int m = 2;
+const int n = 2;
+
+<<1>> Pmax=? [ F (win_count=1 & draw_count=2) ]
+
+<<1>> Pmax=? [ F (win_count=3) ]
+
+<<1>> Pmax=? [ F (round=3 & loss_count=0) ]
+
+<<1>> Pmax=? [ F (round=3 & win_count=0) ]
+
+<<1>> Pmax=? [ F (loss_count=2 & win_count=1 & round=3) ]
+
+<<1>> Pmax=? [ F (win_count=1 & round=1) ]
+
+<<1>> Pmax=? [ F (win_count=1 & draw_count=2 & round=3) ]
+

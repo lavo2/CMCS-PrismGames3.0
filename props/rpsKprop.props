@@ -1,0 +1,8 @@
+<<player1>>Pmax=?[F win=1 & rounds<=k ]
+
+<<player2>>Pmax=?[F win=2 & rounds<=k ]
+
+<<player1>> R{"utility1"}max=?[F rounds=k ]
+
+<<player2>> R{"utility2"}max=?[F rounds=k ]
+
